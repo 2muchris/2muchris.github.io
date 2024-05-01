@@ -1,5 +1,5 @@
 # Christopher Santigo’s Portfolio
-I am a Mechanical Engineering student at CSUF and I expect to graduate
+I am a Mechanical Engineering student at CSUF and I expect to graduate in 2028.
 
 ## Favorite CPSC 120L Labs
 * Lab 8, Part 2
