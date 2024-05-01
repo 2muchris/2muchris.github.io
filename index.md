@@ -1,10 +1,16 @@
-# Christopher Santiago
-L
+# Christopher Santigo’s Portfolio
 
-## CPSC Favorite Labs
+I am a Mechanical Engineering student at CSUF and I expect to graduate
 
-*Lab 8, Part 2
+## Favorite CPSC 120L Labs
+* Lab 8, Part 2
 
   Sentence
 
-*Lab 8
+* Lab 8
+
+  Sentence
+
+* Lab 8
+
+  Sentence
